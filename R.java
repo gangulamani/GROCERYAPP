@@ -4,7 +4,7 @@
  * gradle plugin from the resource data it found. It
  * should not be modified by hand.
  */
-package androidx.viewpager;
+package androidx.loader;
 
 public final class R {
     private R() {}
